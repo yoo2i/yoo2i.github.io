@@ -1,7 +1,7 @@
 ---
 title: "gitlet-design"
 date: 2024-05-20
-categories: 数据结构
+categories: 公开课
 tags: cs61b
 top-img: false
 ---
